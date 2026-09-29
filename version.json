@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "versionName": "1.5",
+  "version": 7,
+  "versionName": "1.6",
   "url": "https://github.com/Failpen/HoiWord/releases/download/v1.0/HoiWord.apk",
-  "changelog": "暂停时震动提示用户"
+  "changelog": "优化拍掌检测灵敏度，添加提示"
 }
