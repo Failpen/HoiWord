@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "versionName": "1.8",
+  "version": 10,
+  "versionName": "1.9",
   "url": "https://github.com/Failpen/HoiWord/releases/download/v1.0/HoiWord.apk",
-  "changelog": "隐藏功能改为双击屏幕继续"
+  "changelog": "修复歌词中日文混排分离，更新日志版本号动态显示"
 }
