@@ -2,5 +2,5 @@
   "version": 2,
   "versionName": "1.1",
   "url": "https://github.com/Failpen/HoiWord/releases/download/v1.0/HoiWord.apk",
-  "changelog": "QQ Music support + update checker"
+  "changelog": "适配QQ音乐歌词显示，新增强制更新功能"
 }
